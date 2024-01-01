@@ -6,4 +6,4 @@ For the Web UI scenario, all the XPath files are stored in karate-config.js for 
 
 If you want to edit the pet used for the Web Services feature, you can modify the testData.json file.
 
-Previous execution results are stored in a folder called 'Reports'.
+When executed will create a report in target/karate-reports/karate-summary.html
