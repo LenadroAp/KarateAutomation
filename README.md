@@ -1,4 +1,5 @@
 Both the Web UI and Web Services exercises were made using the Karate Framework to showcase its versatility. They can be run by executing TestRunner.java in your preferred IDE or, for convenience, running RunAllTests.bat. To make this work, Maven and its path must be set up on your computer.
+In tree/main/src/test/java/Mascotas you can find the two feature for the separate exercises, most of the work was donde using karate features there
 
 Since the "Create a user" scenario in Ui.feature may result in failure after executing a second time (as it can't create an existing user), you can edit ui.feature's background user to the one you desire for testing.
 
